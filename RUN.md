@@ -30,7 +30,6 @@ cd ray-tracing-in-rust
 
 Build the project using the following command:
 
-
 ```
 cargo build --release
 ```
